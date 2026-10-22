@@ -1,0 +1,9 @@
+study,setting,comparison,outcome,time_years,measure,comparator_rate_percent,treatment_rate_percent,absolute_difference_percent,nnt_or_nnh,exact_value,statistical_note,source
+POP-RT,Definitive radiotherapy,Whole-pelvic RT vs prostate-only RT,Biochemical failure-free survival,5,survival,81.2,95.0,13.8,NNT,7.25,Trial-specific Kaplan-Meier point estimates,10.1200/JCO.20.03282
+POP-RT,Definitive radiotherapy,Whole-pelvic RT vs prostate-only RT,Disease-free survival,5,survival,77.2,89.5,12.3,NNT,8.13,Trial-specific Kaplan-Meier point estimates,10.1200/JCO.20.03282
+POP-RT,Definitive radiotherapy,Whole-pelvic RT vs prostate-only RT,Distant metastasis-free survival,5,survival,89.2,95.9,6.7,NNT,14.93,Trial-specific Kaplan-Meier point estimates,10.1200/JCO.20.03282
+POP-RT,Definitive radiotherapy,Whole-pelvic RT vs prostate-only RT,Late grade 2 or higher GU toxicity,,event,7.5,17.7,10.2,NNH,9.80,Statistically significant comparison,10.1016/j.radonc.2019.12.006
+POP-RT,Definitive radiotherapy,Whole-pelvic RT vs prostate-only RT,Late grade 2 or higher GI toxicity,,event,3.8,6.5,2.7,NNH,37.04,Descriptive only; comparison not statistically significant,10.1016/j.radonc.2019.12.006
+SPPORT,Salvage radiotherapy,PBRT plus short-term ADT vs PBRT,Freedom from progression,5,survival,70.9,81.3,10.4,NNT,9.62,Combined treatment-strategy comparison,10.1016/S0140-6736(21)01790-6
+SPPORT,Salvage radiotherapy,PBRT plus ADT plus pelvic-node RT vs PBRT plus ADT,Freedom from progression,5,survival,81.3,87.4,6.1,NNT,16.39,Estimates incremental pelvic-node contribution in presence of ADT,10.1016/S0140-6736(21)01790-6
+SPPORT,Salvage radiotherapy,PBRT plus ADT plus pelvic-node RT vs PBRT,Freedom from progression,5,survival,70.9,87.4,16.5,NNT,6.06,Does not isolate pelvic irradiation from ADT,10.1016/S0140-6736(21)01790-6
